@@ -1,20 +1,17 @@
 # Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
-
-
 ### Project title
 
 Moody Jay 
 
 ### What and why?
 
-Moody Jay intends to offer users with detailed slide bars where users can enter their mood, and recommends / auto-plays a playlist that suits the person's preference. <br />
-We encounter many personalized playlists when we use spotify, youtube, etc, but it always occured to me that often they don't match my need. I was searching for ways in which the playlist could be more 'personalized', and came up with this solution.
+Moody Jay intends to offer users with detailed slide bars where users can enter their mood, and recommends a playlist that suits the person's preference. <br />
+We encounter many personalized playlists when we use spotify, youtube, etc, but it occured to me that often they don't match my need. I was searching for ways in which the playlist could be more 'personalized', and came up with this solution.
 
 ### For whom?
 
-The end-users will be people like me, who loves to listen to music and find new musics through playlists. <br />
-Studies show that Gen Z finds personalized experiences appealing, and are willing to give their datas for it, so they will be our main target, too.
+The end-users will be people like me, who likes to listen to music and find new musics through playlists. <br />
+Studies show that Gen Z finds personalized experiences appealing and are willing to give their datas for it, so they will be our main target user.
 
 ### How?
 
@@ -34,7 +31,7 @@ While this is the general idea for the project, the details are open to change.
 
 Challenges would be
 - The application will require authentication features and a database accesss to keep the user's saved playlist.
-- Since we are working with people's mood, there sould be many iterations where we recieve feedbacks from multiple end-users.
+- Since we are working with people's mood, there should be many iterations where we recieve feedbacks from multiple end-users.
 - We will have to look deep into multiple APIs to have our main feature functional. 
 
-Perhaps having a AI set up for recommendation would be too challanging. We are using APIs which allows us to focus more in other features.
+Perhaps having a AI set up for recommendation would be too challanging. We are using external APIs which allows us to focus more on other features.
